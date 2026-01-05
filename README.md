@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
- 
   <img src="https://readmestats.999857.xyz/api?username=AndoNorth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://readmestats.999857.xyz/api/top-langs/?username=AndoNorth&locale=en&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,css&theme=dracula&hide_border=false&hide_title=false&card_width=320" height="150" alt="languages graph"  />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=AndoNorth&locale=en&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,css&theme=dracula&hide_border=false&hide_title=false&card_width=320" height="150" alt="languages graph"  />
 </div>
 
 ###
